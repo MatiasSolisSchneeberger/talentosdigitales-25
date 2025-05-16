@@ -3,5 +3,14 @@
         "activityBar.background": "#0A350C",
         "titleBar.activeBackground": "#0F4B11",
         "titleBar.activeForeground": "#F2FCF2"
-    }
+    },
+    "spellright.language": [
+        "en",
+        "es"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
 }
